@@ -7,4 +7,4 @@ No frameworks used only SASS for the preprocessing.
 
 All responsiveness manually created through the use of media querys.
 
-Hosted on GitHub Pages: https://hayden-18.github.io/Commune-Waitlist-Page/
+Hosted on GitHub Pages: https://hayden-0.github.io/Commune-Waitlist-Page/
